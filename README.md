@@ -10,8 +10,8 @@ Grę można rozwijać i dodawać kolejne poziomy za pomocą wbudowanej mapy i r�
 (Gra stworzona dla dzieci w wieku 5 - 7 lat pomaga nauczyć się budować ciąg logiczny).
 
 
-•	Środowisko IDE Visual Studio 2019
-•	SFML (wieloplatformowa multimedialna biblioteka programistyczna)
-•	Język programowania – C++ 
+•	Środowisko IDE Visual Studio 2019<br />
+•	SFML (wieloplatformowa multimedialna biblioteka programistyczna)<br />
+•	Język programowania – C++ <br />
 
 VIDEO:  https://youtu.be/9PItJNXWERw
