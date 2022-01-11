@@ -13,5 +13,3 @@ Grę można rozwijać i dodawać kolejne poziomy za pomocą wbudowanej mapy i r�
 •	Środowisko IDE Visual Studio 2019<br />
 •	SFML (wieloplatformowa multimedialna biblioteka programistyczna)<br />
 •	Język programowania – C++ <br />
-
-VIDEO:  https://youtu.be/9PItJNXWERw
